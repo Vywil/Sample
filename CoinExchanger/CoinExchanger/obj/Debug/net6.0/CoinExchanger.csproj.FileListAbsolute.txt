@@ -1,0 +1,15 @@
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/bin/Debug/net6.0/CoinExchanger
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/bin/Debug/net6.0/CoinExchanger.deps.json
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/bin/Debug/net6.0/CoinExchanger.runtimeconfig.json
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/bin/Debug/net6.0/CoinExchanger.dll
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/bin/Debug/net6.0/CoinExchanger.pdb
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.csproj.AssemblyReference.cache
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.AssemblyInfoInputs.cache
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.AssemblyInfo.cs
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.csproj.CoreCompileInputs.cache
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.dll
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/refint/CoinExchanger.dll
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.pdb
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/CoinExchanger.genruntimeconfig.cache
+/Users/valerym/Projects/CoinExchanger/CoinExchanger/obj/Debug/net6.0/ref/CoinExchanger.dll
