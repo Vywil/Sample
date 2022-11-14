@@ -1,0 +1,13 @@
+
+/* This query compares the Full Name, Last Name and Title attributes between ADV and Identity and shows the accounts with discrepancies  */
+Select 
+adv.DN as 'ADV CN',
+adv.CN as 'OPID',
+idm.fullName as 'IDM FULL NAME',
+CONCAT (adv.last, ', ', adv.first) as 'ADV Full Name',
+adv.title as 'ADV TITLE',
+idm.personalTitle as 'IDM Title',
+idm.sn as 'IDM Last Name',
+adv.last as 'ADV Last Name'
+from [Temp].[dbo].[Valery_ADV_All_Users-05-09-22] as adv left join [Temp].[dbo].[Val_Identity_All_Users_Active-05-06-22] as idm on adv.CN = idm.cn
+where adv.last != idm.sn
