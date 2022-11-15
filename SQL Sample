@@ -1,5 +1,5 @@
 
-/* This query will search for accounts in PS that have more than one Active record in PS. Then will grab those and compare agains PRODPOS to see if that record shows termed */
+/* This query will search for records that show active in PS but terminated in identity */
 SELECT 
 EMPID
 ,OPID
