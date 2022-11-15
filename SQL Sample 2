@@ -1,5 +1,5 @@
 
-/* This query compares the Full Name, Last Name and Title attributes between ADV and Identity and shows the accounts with discrepancies  */
+/* This query compares the Full Name, Last Name and Title attributes between ADV and Identity and shows the accounts with discrepancies */
 Select 
 adv.DN as 'ADV CN',
 adv.CN as 'OPID',
