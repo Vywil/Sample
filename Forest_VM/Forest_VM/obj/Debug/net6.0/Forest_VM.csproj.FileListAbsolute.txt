@@ -1,0 +1,15 @@
+/Users/valerym/Projects/Forest_VM/Forest_VM/bin/Debug/net6.0/Forest_VM
+/Users/valerym/Projects/Forest_VM/Forest_VM/bin/Debug/net6.0/Forest_VM.deps.json
+/Users/valerym/Projects/Forest_VM/Forest_VM/bin/Debug/net6.0/Forest_VM.runtimeconfig.json
+/Users/valerym/Projects/Forest_VM/Forest_VM/bin/Debug/net6.0/Forest_VM.dll
+/Users/valerym/Projects/Forest_VM/Forest_VM/bin/Debug/net6.0/Forest_VM.pdb
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.csproj.AssemblyReference.cache
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.AssemblyInfoInputs.cache
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.AssemblyInfo.cs
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.csproj.CoreCompileInputs.cache
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.dll
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/refint/Forest_VM.dll
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.pdb
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/Forest_VM.genruntimeconfig.cache
+/Users/valerym/Projects/Forest_VM/Forest_VM/obj/Debug/net6.0/ref/Forest_VM.dll
